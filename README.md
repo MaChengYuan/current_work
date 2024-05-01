@@ -35,6 +35,8 @@ Technique :
    * current_search_gpt2.ipynb -- domo of hypercomplex classifer from pre-trained Gpt with Trec datasets
 * kmean_cluster.py -- evaluation metircs, such as umap, euclidean and kl_divergence_
 
+![https://github.com/MaChengYuan/current_work/blob/main/%E6%88%AA%E5%9C%96%202024-05-02%20%E4%B8%8A%E5%8D%881.44.14.png]
+
 ## Licensing and Authors
 
 Fernandodoro - ITMO student
