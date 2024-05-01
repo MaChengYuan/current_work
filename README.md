@@ -5,7 +5,8 @@
 1. Project Description
 2. Technologies
 3. Files Description
-4. Licensing and Authors
+4. Result
+5. Licensing and Authors
 
 ## Project Description
 The project are for experimenting the performance of modifed NLP approaches
@@ -35,7 +36,18 @@ Technique :
    * current_search_gpt2.ipynb -- domo of hypercomplex classifer from pre-trained Gpt with Trec datasets
 * kmean_cluster.py -- evaluation metircs, such as umap, euclidean and kl_divergence_
 
+## Result
+
+* Hypercomplex classifier
+
 ![alt text](https://github.com/MaChengYuan/current_work/blob/main/%E6%88%AA%E5%9C%96%202024-05-02%20%E4%B8%8A%E5%8D%881.44.14.png)
+
+![alt text](https://github.com/MaChengYuan/current_work/blob/main/%E6%88%AA%E5%9C%96%202024-05-02%20%E4%B8%8A%E5%8D%881.47.06.png)
+
+* Data Augmentation
+
+![alt text](https://github.com/MaChengYuan/current_work/blob/main/%E6%88%AA%E5%9C%96%202024-05-02%20%E4%B8%8A%E5%8D%881.47.32.png)
+  
 
 ## Licensing and Authors
 
